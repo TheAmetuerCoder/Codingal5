@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title> PICTURE OF JAPANESE FLAG </title>
+        <link rel="stylesheet" href="style.css" type="text/css"/>
+    </head>
+    <body>
+        <h1> I love to read books as it's my hobby! </h1>
+        <center>
+            <img src="download.jfif" alt="books" width="500" height="500">
+        </center>
+    </body>
+</html>
